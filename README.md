@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pollyntu
 - 👀 I’m interested in system programming
-- 🌱 I’m currently learning WebRTC/pion
+- 🌱 I’m currently learning ffmpeg
 - 📫 How to reach me huang.polly@gmail.com
 
 <!---
