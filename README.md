@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pollyntu
 - 👀 I’m interested in system programming
-- 🌱 I’m currently learning ffmpeg
+- 🌱 I’m currently learning ffmpeg and tensorflow
 - 📫 How to reach me huang.polly@gmail.com
 
 <!---
